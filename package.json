@@ -1,0 +1,8 @@
+{
+  "name": "augustas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Augustas <43470011+AugustasFriend@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module"
+}
