@@ -1,4 +1,4 @@
-import {syncReadFile} from "./TaskTwo.js";
+import {syncReadFile} from "../day-two/TaskTwo.js";
 
 const charCollection = new Map();
 const list = syncReadFile('./input.txt');
