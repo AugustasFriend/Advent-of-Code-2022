@@ -24,7 +24,7 @@ const calculatePoints = (enemyInput, myInput, inputTypeScore) =>{
     }
 }
 
-const newArr= syncReadFile('./PuzzleInput.txt');
+const newArr= syncReadFile('./input.txt');
 let totalPoints= 0;
 newArr.map(match => {
     //Part one obsolete
